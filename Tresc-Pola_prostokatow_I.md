@@ -1,4 +1,4 @@
-# Pola prostokątów (II)
+# Pola prostokątów (I)
 
 Dany jest kwadrat o boku równym n. Wewnątrz kwadratu istnieje możliwość tworzenia prostokątów o bokach równoległych do boków zewnętrznego kwadratu i długościach będących liczbami całkowitymi.
 Ile różnych powierzchni prostokątów można osiągnąć w ten sposób.
