@@ -3,7 +3,7 @@ Dany jest kwadrat o boku równym n. Wewnątrz kwadratu istnieje możliwość two
 Ile różnych powierzchni prostokątów można osiągnąć w ten sposób.
 ## Wejście
 W pierwszym wierszu wejścia liczba całkowita n - długość boku kwadratu
-##Wyjście
+## Wyjście
 Jedna liczba całkowita - ilość różnych powierzchni prostokątów, które można wydzielić wewnątrz tego kwadratu.
 ## Przykład
 ### Wejście:
