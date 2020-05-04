@@ -2,7 +2,7 @@
 Dany jest kwadrat o boku równym n. Wewnątrz kwadratu istnieje możliwość tworzenia prostokątów o bokach równoległych do boków zewnętrznego kwadratu i długościach będących liczbami całkowitymi.
 Ile różnych powierzchni prostokątów można osiągnąć w ten sposób.
 ## Wejście
-W pierwszym wierszu wejścia liczba całkowita n - długość boku kwadratu
+W pierwszym wierszu wejścia liczba całkowita n (1 ≤ n ≤ 100) - długość boku kwadratu
 ## Wyjście
 Jedna liczba całkowita - ilość różnych powierzchni prostokątów, które można wydzielić wewnątrz tego kwadratu.
 ## Przykład
